@@ -11,4 +11,4 @@ Basics lists using HTML format. List inlcudes bullets points, ordered lists and 
 
 
 ## Link to work
-This site was built using [GitHub Pages](https://ml042685.github.io/Tables-Pokemon/).
+This site was built using [GitHub Pages](https://ml042685.github.io/Tables-Pokemon/pokemon.html).
