@@ -1,7 +1,7 @@
 # Tables-Pokemon
 
 ## Overview
-Basics lists using HTML format. List inlcudes bullets points, ordered lists and unordered, bold content and italic content, and spacing.
+Pokemon chart that consistes of a full chart of Pokemon characters and their powers. Also includes links for each charater that sends user to Pokemon website
 
 
 ## Technologies used
